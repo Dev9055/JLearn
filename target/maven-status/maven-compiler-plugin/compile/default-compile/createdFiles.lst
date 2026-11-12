@@ -1,0 +1,17 @@
+javaml/clustering/KMedoids.class
+javaml/regression/KNNRegressor.class
+javaml/preprocessing/StandardScaler.class
+javaml/classification/LogisticRegression.class
+javaml/classification/Classifier.class
+javaml/regression/PolynomialRegression.class
+javaml/math/Matrix.class
+javaml/preprocessing/TrainTestSplit.class
+javaml/data/CSVReader.class
+javaml/data/Dataset.class
+javaml/clustering/Clusterer.class
+javaml/regression/RidgeRegression.class
+javaml/regression/LassoRegression.class
+javaml/preprocessing/MinMaxScaler.class
+javaml/classification/Perceptron.class
+javaml/regression/LinearRegression.class
+javaml/regression/Regressor.class
